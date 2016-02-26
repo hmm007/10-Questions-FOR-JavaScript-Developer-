@@ -14,3 +14,6 @@ Here is the list of question:
 ###8. What are two-way data binding and one-way data flow, and how are they different?
 ###9. What are the pros and cons of monolithic vs microservice architectures?
 ###10. What is asynchronous programming, and why is it important in JavaScript?
+
+#Hints:
+Cooming soon
